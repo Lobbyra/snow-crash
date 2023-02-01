@@ -15,3 +15,4 @@ function takeAFileAndEditIt($y, $z)
 }
 $r = takeAFileAndEditIt($argv[1], $argv[2]);
 print $r;
+?>
